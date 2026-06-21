@@ -11,8 +11,8 @@ Depois que os conceitos estiverem sólidos, usar WSL2 + Docker Desktop no dia a 
 ## 1) Requisitos
 
 - Um hypervisor para criar a VM: Proxmox, VirtualBox, VMware, ou até uma VM na nuvem (AWS, Oracle Cloud Free Tier, etc.)
-- Imagem ISO do **Ubuntu Server 22.04 LTS** (ou Desktop, se preferir interface gráfica) — [ubuntu.com/download](https://ubuntu.com/download)
-- Recursos recomendados: 2 vCPU, 2-4 GB RAM, 20 GB de disco (suficiente para os labs deste repositório)
+- Imagem ISO da última versão Desktop LTS do Ubuntu. Atualmente é **Ubuntu 26.04 LTS** — [ubuntu.com/download](https://ubuntu.com/download)
+- Recursos recomendados: 2 vCPU, 4 GB RAM, 100 GB de disco
 
 ## 2) Criando a VM
 
