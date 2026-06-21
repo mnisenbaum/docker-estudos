@@ -1,0 +1,5 @@
+# Arquivos temporários comuns em ambientes de estudo Docker
+*.log
+.DS_Store
+__pycache__/
+*.pyc
